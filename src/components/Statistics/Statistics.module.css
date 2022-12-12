@@ -1,0 +1,11 @@
+.stat {
+    list-style-type: none;
+}
+
+.container {
+    text-align: center;
+}
+
+.items {
+    padding: 0;
+}

@@ -3,8 +3,6 @@ import s from './Feedback.module.css';
 import propTypes from 'prop-types';
 
 const Feedback = ({ options, increment }) => {
-  console.log(increment);
-
   const Button = Object.keys(options);
 
   return Button.map(button => (
