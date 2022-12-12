@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-mod-2-feedback/static/css/main.568eac1f.css",
+    "main.js": "/react-mod-2-feedback/static/js/main.fcfc3360.js",
+    "index.html": "/react-mod-2-feedback/index.html",
+    "main.568eac1f.css.map": "/react-mod-2-feedback/static/css/main.568eac1f.css.map",
+    "main.fcfc3360.js.map": "/react-mod-2-feedback/static/js/main.fcfc3360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.568eac1f.css",
+    "static/js/main.fcfc3360.js"
+  ]
+}
